@@ -52,7 +52,7 @@ Player 2, enter your move (row and column): 1 2
 ## Future Enhancements
 - Implement AI for single-player mode
 - Add a GUI version
-- Save game histor
+- Save game history
 
 ## Author
 [ARPIT PRAJAPAT](https://github.com/akprajapat)
